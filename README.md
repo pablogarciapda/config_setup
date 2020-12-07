@@ -2,6 +2,7 @@
 Archivos de configuraciones
 vue3-eslint-starter
 
+https://mattgosden.medium.com/quick-vscode-setup-for-vue-js-with-prettier-and-eslint-4b97fc71c587
 borrar todo lo realacionado con eslint en el archivo package.json
 instalar lo siguiente en la linea de comandos
 npm install -D eslint prettier babel-eslint eslint-config-airbnb-base eslint-plugin-import eslint-config-prettier eslint-plugin-prettier eslint-plugin-vue
