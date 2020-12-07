@@ -36,3 +36,14 @@ module.exports = {
     'prettier/prettier': ['error', { 'singleQuote': true, 'endOfLine': 'auto' }]
   },
 };
+
+
+
+*A continuación, cree un .prettierrc     archivo en la raíz de su proyecto.
+
+{
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false
+}
